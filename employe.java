@@ -6,4 +6,7 @@ public class Employe {
 	private String telephone;
 	private String adresse;
 	private int age;
+	
+	public Employe(){
+	}
 }
