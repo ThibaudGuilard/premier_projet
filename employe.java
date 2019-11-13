@@ -7,4 +7,7 @@ public class Employe {
 	private String adresse;
 	private int age;
 	private String sexe;
+	
+	public Employe(){
+	}
 }
